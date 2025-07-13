@@ -34,6 +34,8 @@ To deploy this project run
   npm run deploy
 ```
 
+## 🚀 Live Site
+Demo: [Click here to visit](https://medium-peach-six.vercel.app/signup)
 
 ## Screenshots
 
